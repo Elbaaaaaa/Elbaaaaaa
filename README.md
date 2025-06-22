@@ -1,4 +1,4 @@
-# Hi, I'm Elbaaaaaa! 👋
+# Hi, I'm Ebella! 👋
 
 🎓 **Student at 42 School, Paris**  
 💻 **Coding in:**  
