@@ -24,25 +24,22 @@
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,linux,git,github,make,docker&perline=10)](https://skillicons.dev)
 
-### 42 Common Core — projects that read well on a CV
-
-Highlights recruiters often look for (Unix, concurrency, infra, graphics, product):
+### 42 Common Core — projects
 
 | Area | Projects |
 |------|----------|
-| **Shell & processes** | **minishell**, **pipex** |
+| **Shell & processes** | **minishell** |
 | **Concurrency** | **philosophers** |
 | **DevOps / infra** | **inception**, **Born2beRoot** |
-| **Networking** | **NetPractice**, **webserv** (or C++ HTTP equivalent) |
-| **Graphics** | **cub3d** (or **miniRT**) |
+| **Networking** | **NetPractice** |
+| **Graphics** | **cub3d** |
 | **Capstone** | **ft_transcendence** |
 
 Solid “foundation” work that backs the rest: **libft**, **ft_printf**, **get_next_line**, **push_swap**, **so_long**.
 
 ### Now
 
-- Going deeper on **agent reliability** (verification, fallbacks, testing, guardrails).  
-- Turning study into **small, honest builds** — no hype, steady progress.
+- Going deeper on **agent reliability** (verification, fallbacks, testing, guardrails).
 
 ### Contact
 
