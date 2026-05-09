@@ -1,39 +1,48 @@
 ## Elba (ebella)
 
-**Étudiant à 42** — je me spécialise en **IA** et **IA agentique (Agentic AI Engineering)** : conception d’agents fiables, outillage autour des LLMs, et systèmes orientés workflow (raisonnement → action → vérification).
+**42 student** pivoting into **AI engineering** and **agentic systems**—currently learning the foundations and best practices (tool use, state, verification, and failure handling).
 
-### Ce que je fais
+### What I work on
 
-- **Agentic AI Engineering** : orchestration d’outils, mémoire/état, stratégies de vérification, gestion des erreurs, sécurité des entrées.
-- **Algorithmie & bas niveau (42)** : C, structures de données, parsing, robustesse mémoire.
-- **Projets** : du prototype propre à une implémentation maintenable (tests, CI, README, reproductibilité).
+- **Agentic AI (learning track)**: tool orchestration, prompt + tool design, state/memory patterns, evaluation, and reliability fundamentals.
+- **Systems fundamentals (42)**: C, data structures, parsing, and resource-safe code.
+- **Project quality**: clear APIs, reproducible builds, documentation, and maintainable structure.
 
-### Stack (principal)
+### Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,git,linux,bash&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,bash,linux,git,github,make,docker&perline=10)](https://skillicons.dev)
 
-### Projets à voir
+### Featured projects
 
-- **`push_swap`** — tri optimisé sous contraintes (petits cas + radix)  
-- **`so_long`** — mini-jeu 2D en C (MiniLibX) + parsing + pathfinding (+ bonus)  
-- **`get_next_line`** — lecture ligne par ligne (buffer / allocations / I/O POSIX)
+Here are the **42 core projects** that typically stand out the most to recruiters (systems, concurrency, networking, DevOps):
 
-### Objectifs actuels
+- **minishell** — Unix shell, parsing, processes, pipes, and signals
+- **philosophers** — concurrency, threads, mutexes, race conditions
+- **inception** — Docker, networking, and service orchestration
+- **cub3d / miniRT** — graphics programming (raycasting / ray tracing)
+- **ft_transcendence** — full-stack web app (team project, real product constraints)
 
-- Approfondir l’**IA agentique** (patterns de fiabilité, évaluation, observabilité).
-- Construire des projets IA “production-minded” (pipelines clairs, docs, edge cases).
+Also solid and worth highlighting:
 
-### Me contacter
+- **so_long** — 2D graphics + strict map validation + pathfinding
+- **push_swap** — algorithmic sorting under constraints
+- **get_next_line** — reusable buffered line reader (POSIX I/O)
 
-- **LinkedIn** : _à ajouter_  
-- **Email** : _à ajouter_  
-- **Portfolio / site** : _à ajouter_
+### Currently
 
-### Stats
+- Studying **agent reliability patterns** (verification, fallback strategies, testing/eval, and safety).
+- Building up with small experiments and focused practice to move from theory to solid implementations.
+
+### Contact
+
+- **LinkedIn**: `https://www.linkedin.com/in/elbachir-bella/`
+- **Email**: `elbachirbellacontact@gmail.com`
+
+### GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbaaaaaa&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent)
 ![Streak](https://streak-stats.demolab.com?user=Elbaaaaaa&theme=transparent&hide_border=true)
 
 ---
 
-- **ebella** — Étudiant 42
+- **ebella** — 42 student
