@@ -14,19 +14,13 @@
 
 ### Featured projects
 
-Here are the **42 core projects** that typically stand out the most to recruiters (systems, concurrency, networking, DevOps):
+Here are some of the **42 core projects** that i worked on:
 
 - **minishell** — Unix shell, parsing, processes, pipes, and signals
 - **philosophers** — concurrency, threads, mutexes, race conditions
 - **inception** — Docker, networking, and service orchestration
-- **cub3d / miniRT** — graphics programming (raycasting / ray tracing)
+- **cub3d** — graphics programming (raycasting / ray tracing)
 - **ft_transcendence** — full-stack web app (team project, real product constraints)
-
-Also solid and worth highlighting:
-
-- **so_long** — 2D graphics + strict map validation + pathfinding
-- **push_swap** — algorithmic sorting under constraints
-- **get_next_line** — reusable buffered line reader (POSIX I/O)
 
 ### Currently
 
