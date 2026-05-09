@@ -1,41 +1,39 @@
-# Hi, I'm Ebella! 👋
+## Elba (ebella)
 
-🎓 **Student at 42 School, Paris**  
-💻 **Coding in:**  
-&nbsp;&nbsp;&nbsp;• C  
-&nbsp;&nbsp;&nbsp;• Java  
-&nbsp;&nbsp;&nbsp;• HTML & CSS  
-&nbsp;&nbsp;&nbsp;• Python
+**Étudiant à 42** — je me spécialise en **IA** et **IA agentique (Agentic AI Engineering)** : conception d’agents fiables, outillage autour des LLMs, et systèmes orientés workflow (raisonnement → action → vérification).
 
----
+### Ce que je fais
 
-## 🌱 About Me
+- **Agentic AI Engineering** : orchestration d’outils, mémoire/état, stratégies de vérification, gestion des erreurs, sécurité des entrées.
+- **Algorithmie & bas niveau (42)** : C, structures de données, parsing, robustesse mémoire.
+- **Projets** : du prototype propre à une implémentation maintenable (tests, CI, README, reproductibilité).
 
-I'm passionate about learning new technologies and tackling challenging problems. As a student at 42 Paris, I'm constantly growing my skills through innovative projects and peer learning.
+### Stack (principal)
 
----
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,git,linux,bash&perline=6)](https://skillicons.dev)
 
-## 🚀 Skills
+### Projets à voir
 
-- Problem-solving & algorithm design
-- Project-based learning
-- Collaboration in diverse teams
-- Code in C, Java, HTML, CSS, Python
+- **`push_swap`** — tri optimisé sous contraintes (petits cas + radix)  
+- **`so_long`** — mini-jeu 2D en C (MiniLibX) + parsing + pathfinding (+ bonus)  
+- **`get_next_line`** — lecture ligne par ligne (buffer / allocations / I/O POSIX)
 
----
+### Objectifs actuels
 
-## 📫 How to reach me
+- Approfondir l’**IA agentique** (patterns de fiabilité, évaluation, observabilité).
+- Construire des projets IA “production-minded” (pipelines clairs, docs, edge cases).
 
-<!-- Add your social links here if you want! For example:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://yourwebsite.com)
--->
+### Me contacter
 
----
+- **LinkedIn** : _à ajouter_  
+- **Email** : _à ajouter_  
+- **Portfolio / site** : _à ajouter_
 
-_“The only way to do great work is to love what you do.”_
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbaaaaaa&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=Elbaaaaaa&theme=transparent&hide_border=true)
 
 ---
 
-![Elbaaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elbaaaaaa&show_icons=true&theme=radical)
+- **ebella** — Étudiant 42
